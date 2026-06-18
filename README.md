@@ -1,7 +1,7 @@
 # Venkateswarlu Vennampalli - Portfolio Website
 
 🌐 **Live Portfolio:**  
-https://venkateswarlu1813.github.io/Portfolio_Venkateswarlu/
+https://venkateswarlu1813.github.io/Venkateswarlu_Portfolio/
 
 This is my personal portfolio website built using HTML and CSS.
 It showcases my education, skills, projects, certifications, achievements, and contact details in a clean and modern UI design.
@@ -23,15 +23,15 @@ It showcases my education, skills, projects, certifications, achievements, and c
 
 ## Live Demo
 
-🔗 Visit Portfolio:
-https://venkateswarlu1813.github.io/Portfolio_Venkateswarlu/
+🔗 Portfolio Website:
+https://venkateswarlu1813.github.io/Venkateswarlu_Portfolio/
 
 ---
 
 ## Project Structure
 
 ```text
-Portfolio_Venkateswarlu/
+Venkateswarlu_Portfolio/
 │
 ├── index.html
 ├── styles.css
