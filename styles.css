@@ -239,7 +239,7 @@ header {
 /* IMAGE */
 .profile-img {
   width: 100%;
-  max-width: 300px;
+  max-width: 460px;
   border-radius: 20px;
   box-shadow: 0 20px 55px rgba(0, 0, 0, 0.35);
 }
